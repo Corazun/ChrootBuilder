@@ -1,2 +1,2 @@
-# ChrootBuilder
-Short bash script to build chroot users and install custom dependencies on there directories
+# chrootbuilder
+Bash script building chroot jails isolaing users and installing custom dependencies on there directories
